@@ -1,0 +1,14 @@
+.dropzone {
+  width: 60vw;
+  height: 60vh;
+  margin: auto;
+  background-color: cyan;
+}
+
+.drag-over {
+  background-color: green;
+}
+
+.drag-error {
+  background-color: red;
+}
